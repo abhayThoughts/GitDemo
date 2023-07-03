@@ -34,5 +34,9 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+        System.out.println("JIRA1");
+        System.out.println("JIRA2");
+        System.out.println("JIRA3");
+        
     }
 }
